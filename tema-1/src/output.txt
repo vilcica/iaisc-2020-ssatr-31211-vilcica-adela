@@ -1,0 +1,12 @@
+Initial Mark: P0:1 P1:0 P2:0 P3:0 P4:1 P5:0 P6:1 P7:0 P8:0 P9:0 P10:0 P11:0 P12:0 P13:0 
+Clock: 0 Mark: 0 1 1 0 1 0 1 0 0 0 0 0 0 0 
+Clock: 1 Mark: 0 0 0 0 1 0 1 0 0 0 0 0 0 0 
+Clock: 2 Mark: 0 0 0 1 1 0 1 0 0 0 0 0 0 0 
+Clock: 3 Mark: 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+Clock: 4 Mark: 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+Clock: 5 Mark: 0 0 0 0 0 1 1 1 0 0 0 0 0 0 
+Clock: 6 Mark: 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+Clock: 7 Mark: 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+Clock: 8 Mark: 0 0 0 0 0 0 0 1 1 0 0 0 0 0 
+Clock: 9 Mark: 0 0 0 0 0 0 0 1 1 0 0 0 0 0 
+Clock: 10 Mark: 0 0 0 0 0 0 0 1 1 0 0 0 0 0 

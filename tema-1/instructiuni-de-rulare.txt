@@ -1,0 +1,5 @@
+1. Se scrie reteaua Petrin in fisierul petrinets.json
+2. Se adauga libraria Gson la proiect
+3. Se seteaza timpul de rulare a simulatorului in interiorul clasei Simulator
+4. Se da run la clasa Simulator
+5. Se vede rezultatul in output.txt
