@@ -7,6 +7,6 @@ Clock: 4 Mark: 0 0 0 0 0 0 1 0 0 0 0 0 0 0
 Clock: 5 Mark: 0 0 0 0 0 1 1 0 0 0 0 0 0 0 
 Clock: 6 Mark: 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
 Clock: 7 Mark: 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
-Clock: 8 Mark: 0 0 0 0 0 0 0 1 1 0 0 0 0 0 
+Clock: 8 Mark: 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
 Clock: 9 Mark: 0 0 0 0 0 0 0 1 1 0 0 0 0 0 
 Clock: 10 Mark: 0 0 0 0 0 0 0 1 1 0 0 0 0 0 
