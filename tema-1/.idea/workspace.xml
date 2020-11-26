@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5698a37d-9220-491f-bf81-23eb722bce32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tema-1/META-INF/tema-1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/tema-1/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/tema-1/output.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/output.txt" afterDir="false" />
-    </list>
+    <list default="true" id="5698a37d-9220-491f-bf81-23eb722bce32" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,6 +114,7 @@
       <workItem from="1604155451082" duration="9969000" />
       <workItem from="1604249962113" duration="2047000" />
       <workItem from="1604415485125" duration="2089000" />
+      <workItem from="1606151881702" duration="43000" />
     </task>
     <servers />
   </component>
@@ -131,7 +126,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
